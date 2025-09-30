@@ -19,7 +19,6 @@ Nenhum igual → Perda da aposta.
 
 🕹️ Loop de jogabilidade infinita até as fichas acabarem (ou o jogador sair manualmente).
 
-😄 Mensagens motivacionais/engraçadas para manter o jogo divertido.
 
 🛠️ Tecnologias utilizadas
 
@@ -35,14 +34,4 @@ Praticar lógica de programação e estruturas de repetição.
 
 Trabalhar com listas, funções e retornos múltiplos.
 
-Criar uma aplicação divertida que pode ser expandida para interfaces gráficas no futuro (ex: Tkinter ou Pygame).
 
-🚀 Possíveis melhorias futuras
-
-Interface gráfica com botões e animações.
-
-Diferentes valores de aposta.
-
-Ranking ou sistema de pontuação.
-
-Sons de vitória e derrota para maior imersã
